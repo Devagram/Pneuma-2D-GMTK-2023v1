@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/UnityProj-GMTK2023-2d/[Ll]ibrary/
-/UnityProj-GMTK2023-2d/[Tt]emp/
-/UnityProj-GMTK2023-2d/[Oo]bj/
-/UnityProj-GMTK2023-2d/[Bb]uild/
-/UnityProj-GMTK2023-2d/[Bb]uilds/
-/UnityProj-GMTK2023-2d/[Ll]ogs/
-/UnityProj-GMTK2023-2d/[Uu]ser[Ss]ettings/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
